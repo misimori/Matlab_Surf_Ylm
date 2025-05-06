@@ -6,7 +6,7 @@
 <img src="https://github.com/misimori/Matlab_Surf_Ylm/blob/13c5d93fdb6923e8117685ad3549c60db4389904/fig1.png" width=70% height=70%>
 
 
-The spherical harmonics are defined as $Y_{\ell }^m (\theta ,\varphi )=N_{\ell ,m} \,P_{\ell }^{|m|} (\cos \theta )\,{e}^{im\varphi }$.
+The spherical harmonics are defined as $Y_{\ell }^m (\theta ,\varphi )=N_{\ell ,m}   P_{\ell }^{|m|} (\cos \theta ) {e}^{im\varphi }$.
 
  $N_{\ell ,m}$ is normalization prefactor, which is equal to $N_{\ell ,m} =\sqrt{\frac{2\ell +1}{4\pi }\frac{(\ell -m)!}{(\ell +m)!}}$,  and 
 $N_{\ell ,-m} ={(-1)}^m \sqrt{\frac{2\ell +1}{4\pi }\frac{(\ell -m)!}{(\ell +m)!}}$ , ($m>0$).
